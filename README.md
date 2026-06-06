@@ -1,63 +1,94 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
+
+<br>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+  <img align="center" height="200" src="https://i.imgur.com/iw9zE39.png" />
 </div>
 
+<br>
 
-
-#
-
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas . Atualmente Estudando Java e Python.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras
-  ass....
-  
-#
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
-
-
-<h3 align="left">My Stack ~</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
- 
-
-
+<div align="center">
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+    <br>
+    Hi there! I'm <b>Pedro Vitor</b>
+  </samp>
 </div>
 
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=I+am+from+Brazil;Systems+Development+Student;Learning+new+ways+to+create+code+every+day;Turning+ideas+into+projects;Be+welcome!" />
+</div>
 
-#
+<br>
 
-<div style="text-align: center;">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrovitor7&show_icons=true&count_private=true&hide=issues&line_height=25&theme=jolly&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=6&icon_color=FF00F6" alt="GitHub stats">
+<div align="center">
+  <img src="https://img.shields.io/badge/Alvess--devs-black" />
+</div>
 
+<br><br>
+
+<!-- STATS -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alvess-devs&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+</div>
+
+<br>
+
+<!-- TOP LANGUAGES -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvess-devs&layout=compact&theme=radical&langs_count=8&hide_border=true" />
+</div>
+
+<br>
+
+<!-- SUMMARY -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alvess-devs&theme=radical"/>
+</div>
+
+<br><br>
+
+<!-- SKILLS -->
+<div align="center" style="display: inline_block">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+</div>
+
+<br><br>
+
+<!-- CONTACT -->
+<details align="center">
+  <summary><b>More Info</b></summary>
+
+<br>
+
+<div align="center">
+  <b>Contact me:</b>
   <br><br>
-  <a href="https://github.com/pedrovitor7/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitor7&layout=compact&langs_count=4&show_icons=true&theme=jolly&hide=html,scss,less&bg_color=000&title_color=FF00F6&text_color=8B8B8B&border_radius=6&border_color=561760" alt="Most Used Languages">
-  </a>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail)](mailto:SEU_EMAIL@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram)](https://instagram.com/SEU_USUARIO)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SEU_USUARIO)
+
 </div>
 
+</details>
 
+<br>
 
-#
+<!-- VIEWS -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alvess-devs&style=flat-square&color=8f2c5b" />
+</div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
