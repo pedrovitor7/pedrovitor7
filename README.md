@@ -18,33 +18,14 @@
 
 <br>
 
-<!-- GITHUB STATS -->
+<!-- TOP LANGS ONLY -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrovitor7&show_icons=true&theme=radical&count_private=true" />
+  <a href="https://github.com/pedrovitor7/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitor7&layout=compact&theme=radical" />
+  </a>
 </div>
 
 <br>
-
-<!-- TOP LANGUAGES -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitor7&layout=compact&theme=radical" />
-</div>
-
-<br>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrovitor7&theme=react-dark" />
-</div>
-
-<br>
-
-<!-- SUMMARY -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrovitor7&theme=radical"/>
-</div>
-
-<br><br>
 
 <!-- SKILLS -->
 <div align="center">
@@ -54,7 +35,6 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
 </div>
 
 <br>
