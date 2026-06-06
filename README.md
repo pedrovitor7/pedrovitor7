@@ -18,6 +18,20 @@
 
 <br>
 
+<!-- GITHUB STATS -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrovitor7&show_icons=true&theme=radical&count_private=true" />
+</div>
+
+<br>
+
+<!-- TOP LANGUAGES -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitor7&layout=compact&theme=radical" />
+</div>
+
+<br>
+
 <!-- ACTIVITY GRAPH -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrovitor7&theme=react-dark" />
@@ -25,33 +39,12 @@
 
 <br>
 
-<!-- TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrovitor7&theme=radical&no-frame=true&row=1&column=6" />
-</div>
-
-<br>
-
-<!-- PROFILE SUMMARY (CONTRIBUIÇÕES) -->
+<!-- SUMMARY -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrovitor7&theme=radical"/>
 </div>
 
-<br>
-
-<!-- TOP LANGUAGES (SEU PEDIDO PRINCIPAL) -->
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitor7&layout=compact&theme=radical&langs_count=8&hide_border=true" />
-</div>
-
-<br>
-
-<!-- STATS (OPCIONAL MAIS ESTÁVEL) -->
-<div align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedrovitor7&show_icons=true&theme=radical&count_private=true" />
-</div>
-
-<br>
+<br><br>
 
 <!-- SKILLS -->
 <div align="center">
