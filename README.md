@@ -12,7 +12,7 @@
   <b>`プ ロ グ ラ マ`</b>
   <samp>
     <br>
-    Hi there! I'm <b>Pedro Vitor</b>
+    Hi there! I'm <b>Dexa</b>
   </samp>
 </div>
 
@@ -23,28 +23,28 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Alvess--devs-black" />
+  <img src="https://img.shields.io/badge/pedrovitor7-black" />
 </div>
 
 <br><br>
 
 <!-- STATS -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alvess-devs&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedrovitor7&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 </div>
 
 <br>
 
 <!-- TOP LANGUAGES -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvess-devs&layout=compact&theme=radical&langs_count=8&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitor7&layout=compact&theme=radical&langs_count=8&hide_border=true" />
 </div>
 
 <br>
 
 <!-- SUMMARY -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alvess-devs&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrovitor7&theme=radical"/>
 </div>
 
 <br><br>
@@ -86,7 +86,7 @@
 
 <!-- VIEWS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alvess-devs&style=flat-square&color=8f2c5b" />
+  <img src="https://komarev.com/ghpvc/?username=pedrovitor7&style=flat-square&color=8f2c5b" />
 </div>
 
 <br>
