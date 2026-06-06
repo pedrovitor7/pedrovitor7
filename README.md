@@ -16,14 +16,26 @@
   </samp>
 </div>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=I+am+from+Brazil;Systems+Development+Student;Learning+new+ways+to+create+code+every+day;Turning+ideas+into+projects;Be+welcome!" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrovitor7&theme=radical"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/pedrovitor7-black" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrovitor7&theme=react-dark" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pedrovitor7&theme=radical&no-frame=true&row=1&column=6" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pedrovitor7&theme=radical" />
 </div>
 
 <br><br>
