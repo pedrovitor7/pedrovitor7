@@ -12,7 +12,7 @@
   <b>`プ ロ グ ラ マ`</b>
   <samp>
     <br>
-    Hi there! I'm <b>Dexa</b>
+    Hi there! I'm <b>Pedro Vitor</b>
   </samp>
 </div>
 
@@ -28,21 +28,21 @@
 
 <br><br>
 
-<!-- STATS -->
+<!-- STATS (mais estável) -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedrovitor7&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedrovitor7&show_icons=true&theme=radical&count_private=true" />
 </div>
 
 <br>
 
 <!-- TOP LANGUAGES -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitor7&layout=compact&theme=radical&langs_count=8&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedrovitor7&layout=compact&theme=radical" />
 </div>
 
 <br>
 
-<!-- SUMMARY -->
+<!-- PROFILE SUMMARY -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrovitor7&theme=radical"/>
 </div>
